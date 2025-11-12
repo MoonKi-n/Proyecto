@@ -24,12 +24,30 @@
     <ClCompile Include="menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Agenda.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Perfil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Usuario.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListaEspera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Notificaciones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Agenda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Perfil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Usuario.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

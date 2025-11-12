@@ -127,13 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Agenda.cpp" />
     <ClCompile Include="ListaEspera.cpp" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="Notificaciones.cpp" />
+    <ClCompile Include="Perfil.cpp" />
+    <ClCompile Include="Usuario.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Agenda.h" />
     <ClInclude Include="ListaEspera.h" />
     <ClInclude Include="Notificaciones.h" />
+    <ClInclude Include="Perfil.h" />
+    <ClInclude Include="Usuario.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
