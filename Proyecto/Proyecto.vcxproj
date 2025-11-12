@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ListaEspera.cpp" />
+    <ClCompile Include="menu.cpp" />
     <ClCompile Include="Notificaciones.cpp" />
   </ItemGroup>
   <ItemGroup>
